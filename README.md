@@ -5,6 +5,8 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+> English (base v2) edition: https://github.com/fc0web/fx-mt4-auto-trading-tool-en
+
 ---
 
 ## ⚠ 最初にお読みください — 投資リスクに関する重要事項
